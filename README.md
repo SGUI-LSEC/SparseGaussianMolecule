@@ -8,8 +8,10 @@
 
 ------------------------------------------------------------------------------------------------------------------------ 
 ## Instructions for MOLECULAR SPARSE REPRESENTATION (under Linux): 
+
 1. Unpack SparseGaussianMolecule.tar.gz
    The SparseGaussianMolecule contains these folders:
+   
    =====================================================
    - "\pqr": directory for input .pqr files.
    - "\output": directory for output .txt files.
