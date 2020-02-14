@@ -19,9 +19,9 @@
 ## A quick guide for usage of this version:
 command line style:
 
-cd example
+- cd example
 
-python3 main.py xxx.pqr d
+- python3 main.py xxx.pqr d
 
 (Notice: the pqr file should be put in the folder named "pqr". The output .txt file is in the folder named "output". )
 
