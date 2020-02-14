@@ -1,12 +1,11 @@
-# SparseGaussianMolecule
-## MOLECULAR SPARSE REPRESENTATION BY 3D ELLIPSOID RADIAL BASIS FUNCTION NEURAL NETWORKS
+# MOLECULAR SPARSE REPRESENTATION BY 3D ELLIPSOID RADIAL BASIS FUNCTION NEURAL NETWORKS
 
-The Gaussian surface is defined as
+## The Gaussian surface is defined as
 ```math
 {x| \sum_{i} exp(-d(||x-xi||^2 - ri^2)=c }
 ```
-
-Instructions for MOLECULAR SPARSE REPRESENTATION (under Linux): 
+------------------------------------------------------------------------------------------------------------------------ 
+## Instructions for MOLECULAR SPARSE REPRESENTATION (under Linux): 
 1. Unpack SparseGaussianMolecule.tar.gz
    The SparseGaussianMolecule contains these folders:
    \pqr: directory for input .pqr files.
@@ -17,7 +16,7 @@ Instructions for MOLECULAR SPARSE REPRESENTATION (under Linux):
 3. After the main.py is ended, the output .txt file is under the \output directory.
 
 ------------------------------------------------------------------------------------------------------------------------ 
-A quick guide for usage of this version:
+## A quick guide for usage of this version:
 command line style:
 
 cd example
