@@ -2,8 +2,8 @@
 MOLECULAR SPARSE REPRESENTATION BY 3D ELLIPSOID RADIAL BASIS FUNCTION NEURAL NETWORKS
 
 The Gaussian surface is defined as 
-```
-{x: \sum_{i}exp(-d(||x-xi||^2 - ri^2)=c}
+```math
+\left\{x: \sum_{i} exp(-d(||x-xi||^2 - ri^2)=c \right}
 ```
 Instructions for MOLECULAR SPARSE REPRESENTATION (under Linux): 
 1) Unpack SparseGaussianMolecule.tar.gz
