@@ -12,11 +12,11 @@
 1. Unpack SparseGaussianMolecule.tar.gz
    The SparseGaussianMolecule contains these folders:
    
-=====================================================
+   ```
    - "\pqr": directory for input .pqr files.
    - "\output": directory for output .txt files.
    - "\example": directory for a script main.py.
-=====================================================
+   ```
     
    (In main.py: The variable PQR is the file name of input .pqr file. It should be in the \pqr folder. The variable d is the speed rate in Gaussian surface.)
 2. Execute main.py. 
