@@ -9,8 +9,7 @@ Instructions for MOLECULAR SPARSE REPRESENTATION (under Linux):
    \pqr: directory for input .pqr files.
    \output: directory for output .txt files.
    \example: directory for a script main.py.
-   
-In main.py: The variable PQR is the file name of input .pqr file. It should be in the \pqr folder. The variable d is the speed rate in Gaussian surface.
+   In main.py: The variable PQR is the file name of input .pqr file. It should be in the \pqr folder. The variable d is the speed rate in Gaussian surface.
 		
 2) Execute main.py.(Notice: the python version: python36)
 3) After the main.py is ended, the output .txt file is under the \output directory.
