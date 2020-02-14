@@ -19,9 +19,16 @@
 3. After the main.py is ended, the output .txt file is under the "\output" directory.
 
 **Notice**: 
+You need to install
+
+```
 - Python version: python36
 - Minimun required version of CUDA: 9.2
-- Minimun required verison of PyTorch: 
+- Minimun required verison of PyTorch: 1.3
+- numpy and torchvision
+```
+
+before run the code "main.py".
 ------------------------------------------------------------------------------------------------------------------------ 
 ## A quick guide for usage of this version:
 command line style:
