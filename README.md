@@ -1,10 +1,12 @@
 # MOLECULAR SPARSE REPRESENTATION BY 3D ELLIPSOID RADIAL BASIS FUNCTION NEURAL NETWORKS
 
-## The Gaussian surface is defined as
-
+## Volumetric electron density maps
+Volumetric electron density maps are often modelled as the volumetric Gaussian density maps $\phi : \mathbb{R}^3 \rightarrow \mathbb{R}$. The definition of the volumetric Gaussian density maps is as follows,
 ```math
-{x| \phi(x) = \sum_{i} exp(-d(||x-xi||^2 - ri^2)=c }
+\phi(x) = \sum_{i} exp(-d(||x-xi||^2 - ri^2)
 ```
+
+where the parameter $d$ is positive and controls the decay rate of the kernel functions, $x_i$ and $r_i$ are the location and radius of atom $i$.
 
 ------------------------------------------------------------------------------------------------------------------------ 
 ## Instructions for MOLECULAR SPARSE REPRESENTATION (under Linux): 
