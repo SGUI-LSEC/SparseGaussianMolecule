@@ -19,6 +19,7 @@
 3. After the main.py is ended, the output .txt file is under the "\output" directory.
 
 **Notice**: 
+
 You need to install
 
 ```
@@ -29,6 +30,7 @@ You need to install
 ```
 
 before run the code "main.py".
+
 ------------------------------------------------------------------------------------------------------------------------ 
 ## A quick guide for usage of this version:
 command line style:
